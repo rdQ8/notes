@@ -1,1 +1,3 @@
-chromium chromium
+chromium chromium 
+
+firefox firefox
